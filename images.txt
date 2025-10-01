@@ -8,4 +8,4 @@ mysql:oraclelinux9
 redis:7.4.5-bookworm
 boystar/ubantu:latest
 tomcat:jre25-temurin-noble
-registry:3.0.0
+registry
