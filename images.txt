@@ -4,10 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mysql:oraclelinux9
-redis:7.4.5-bookworm
-boystar/ubantu:latest
-tomcat:jre25-temurin-noble
+ubuntu:latest
 registry
 tomcat:8.0.53
 mysql:5.7
+redis:6.0.8
