@@ -10,3 +10,4 @@ boystar/ubantu:latest
 tomcat:jre25-temurin-noble
 registry
 tomcat:8.0.53
+mysql:5.7
