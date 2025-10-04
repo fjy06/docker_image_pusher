@@ -10,3 +10,4 @@ tomcat:8.0.53
 mysql:5.7
 redis:6.0.8
 centos:7
+alpine
