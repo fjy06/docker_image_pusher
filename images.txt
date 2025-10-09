@@ -13,5 +13,5 @@ centos:7
 alpine
 portainer/portainer:latest
 tutum/influxdb:0.9
-google/cadvisor
-grafana/grafana
+google/cadvisor:latest
+grafana/grafana:latest
