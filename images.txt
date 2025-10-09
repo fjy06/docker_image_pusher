@@ -12,4 +12,6 @@ redis:6.0.8
 centos:7
 alpine
 portainer/portainer:latest
-tutum/influxdb:0.9
+tutum/influxdb
+google/cadvisor
+grafana/grafana
